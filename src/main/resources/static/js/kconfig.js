@@ -59,6 +59,7 @@ var req = {
  */
 var api = {
     homeView: BASE_WEB + '', // kvf-admin主页地址
+    memberView: BASE_WEB + 'member/index',  // member主页地址
     login: BASE_WEB + 'login',
     captchaUrl: BASE_WEB + 'captcha',
     comm: {
