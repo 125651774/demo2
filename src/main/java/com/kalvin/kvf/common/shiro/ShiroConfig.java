@@ -113,11 +113,11 @@ public class ShiroConfig {
         Map<String, String> filterMap = new LinkedHashMap<>();
         filterMap.put("/static/**", "anon");
         filterMap.put("/login/**", "anon");
+        filterMap.put("/member/**", "anon");
 //        filterMap.put("/logout", "logout");   // 暂不使用Shiro自带的登出
         filterMap.put("/druid/**", "anon");
         filterMap.put("/captcha", "anon");
 //        filterMap.put("/", "user");
-        filterMap.put("/reg.html","anon");
 
         filterMap.put("/**", "myFilter,authc");
         shiroFilter.setFilterChainDefinitionMap(filterMap);
