@@ -236,7 +236,20 @@
                 var $form = $('form');
                 $form[0].reset();
                 renderTableData(kvfKit.getFormJson($form));
-            }
+            },
+            logout: function () {
+                layer.confirm('是否退出登录？', {
+                    btn: ['是', '否']
+                }, function(){
+                    kvfKit.aGet('/logout', function (r) {
+                        if (r.code === req.status.ok) {
+                            parent.window.location.replace(api.memberView);
+                        }
+                    })
+                }, function(index){
+
+                });
+            },
         };
 
         kvfKit.activeInit(active);
