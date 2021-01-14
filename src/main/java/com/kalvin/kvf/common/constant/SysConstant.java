@@ -4,7 +4,7 @@ package com.kalvin.kvf.common.constant;
  * 作用：OA系统常量<br>
  * 说明：(无)
  *
- * @author Kalvin
+ * @author
  * @Date 2019年05月05日 14:35
  */
 public class SysConstant {

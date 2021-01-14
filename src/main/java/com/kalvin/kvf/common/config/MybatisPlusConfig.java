@@ -16,7 +16,7 @@ import javax.sql.DataSource;
  * 作用：mybatisPlus配置<br>
  * 说明：(无)
  *
- * @author kalvin
+ * @author
  * @Date 2019年04月08日 16:47
  */
 @Configuration

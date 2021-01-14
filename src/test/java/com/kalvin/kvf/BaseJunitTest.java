@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringRunner;
  * 作用：junit测试基类<br>
  * 说明：(无)
  *
- * @author Kalvin
+ * @author
  * @Date 2019年04月29日 15:42
  */
 @RunWith(SpringRunner.class)

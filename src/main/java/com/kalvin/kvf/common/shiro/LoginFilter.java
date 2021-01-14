@@ -11,7 +11,7 @@ import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 
 /**
- * @author kalvin
+ * @author
  */
 @Component
 public class LoginFilter extends AccessControlFilter {

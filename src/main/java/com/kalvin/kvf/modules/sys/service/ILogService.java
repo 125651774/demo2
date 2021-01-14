@@ -9,7 +9,7 @@ import com.kalvin.kvf.modules.sys.entity.Log;
  * 日志表 服务类
  * </p>
  *
- * @author Kalvin
+ * @author
  * @since 2019-05-10
  */
 public interface ILogService extends IService<Log> {

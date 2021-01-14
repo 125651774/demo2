@@ -19,7 +19,7 @@ import org.springframework.web.servlet.ModelAndView;
  * 日志表 前端控制器
  * </p>
  *
- * @author Kalvin
+ * @author
  * @since 2019-05-10
  */
 @RestController

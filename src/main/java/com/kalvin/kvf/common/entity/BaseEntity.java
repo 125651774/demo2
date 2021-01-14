@@ -6,7 +6,7 @@ import java.io.Serializable;
  * 作用：实体基类<br>
  * 说明：(无)
  *
- * @author Kalvin
+ * @author
  * @Date 2019年04月29日 13:28
  */
 public class BaseEntity extends BasePageEntity implements Serializable {

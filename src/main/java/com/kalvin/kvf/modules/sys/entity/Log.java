@@ -14,7 +14,7 @@ import lombok.experimental.Accessors;
  * 日志表
  * </p>
  *
- * @author Kalvin
+ * @author
  * @since 2019-05-10
  */
 @Data

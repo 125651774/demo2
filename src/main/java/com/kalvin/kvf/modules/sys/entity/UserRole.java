@@ -16,7 +16,7 @@ import lombok.experimental.Accessors;
  * 用户与角色对应关系
  * </p>
  *
- * @author Kalvin
+ * @author
  * @since 2019-04-29
  */
 @Data

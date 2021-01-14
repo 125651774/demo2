@@ -11,7 +11,7 @@ import com.baomidou.mybatisplus.generator.config.rules.NamingStrategy;
 /**
  * 【作用】代码生成器<br>
  * 【说明】（无）
- * @author Kalvin
+ * @author
  * @Date 2019/4/16 15:11
  */
 public class CodeGenerator {

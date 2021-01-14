@@ -11,7 +11,7 @@ import java.util.List;
  * 日志表 Mapper 接口
  * </p>
  *
- * @author Kalvin
+ * @author
  * @since 2019-05-10
  */
 public interface LogMapper extends BaseMapper<Log> {
